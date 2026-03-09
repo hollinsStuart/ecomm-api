@@ -8,9 +8,10 @@ We are building
 
 ## TODOs
 
-- GET /orders/{id}
-- POST /product
-- GET /products/{id}
+- [ ] All user apis
+- [ ] GET /orders/{id}
+- [ ] POST /product
+- [ ] GET /products/{id}
 
 ## Placing an order
 
