@@ -1,5 +1,7 @@
 # Ecomm
 
+Following the [Ecomm API Tutorial](https://github.com/sikozonpc/ecom-go-api-project), with additional features.
+
 We are building
 
 - GET /health
